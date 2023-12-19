@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 title>SEC SLOT TIMETABLE</title>
 <table>
     <table border="4" width="600" cellspacing='4' cellpaddling='4'>
@@ -123,6 +124,6 @@ title>SEC SLOT TIMETABLE</title>
     <td align="center">soft skills(SS)</td>
 </tr>
 </table>
+```
 # OUPUT
-![output](![Uploading slot time tamble ouput.png…]()
-)
+![slot time tamble ouput](https://github.com/premsuryas/timetable/assets/147473858/30526b18-4a24-4d4b-a012-26f4b676f71a)
