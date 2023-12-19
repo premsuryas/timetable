@@ -14,13 +14,14 @@ Add your timetable
 Execute the program
 
 # CODE
-<title>SEC SLOT TIMETABLE</title>
+title>SEC SLOT TIMETABLE</title>
 <table>
     <table border="4" width="600" cellspacing='4' cellpaddling='4'>
-        <img src="SEC.png"
-    height="100" width="600" align="'centre" border="2">
-
-<h2>  SLOT TIMETABLE-Prem Kumar.S (23013598)</h2>
+        <img src="logo.png"
+        height="100" width="600" align="'centre" border="2">
+    
+    
+<h2>  SLOT TIMETABLE-PREMKUMAR (23013598)</h2>
 <tr>
     <th align="center" bgcolor="yellow">Day/Time</th>
     <th align="center" bgcolor="red">Monday</th>
@@ -122,7 +123,6 @@ Execute the program
     <td align="center">soft skills(SS)</td>
 </tr>
 </table>
-
 # OUPUT
 ![output](![Uploading slot time tamble ouput.png…]()
 )
